@@ -44,6 +44,6 @@ dependencies {
     implementation 'com.robotemi:sdk:0.10.+'
 
     // Rocos Agent SDK
-    implementation 'io.rocos.agent.android:sdk:0.1.29' // Rocos android agent SDK
+    implementation 'io.rocos.agent.android:sdk:0.1.30' // Rocos android agent SDK
     implementation 'com.google.code.gson:gson:2.8.6' // The SDK required dependency
 }
